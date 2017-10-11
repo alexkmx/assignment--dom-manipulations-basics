@@ -176,3 +176,9 @@ img#city-img{
 #user-list li {
    line-height: 1.35;
 }
+
+.reversa {
+  display: flex;
+  flex-direction: row-reverse;
+  align-self: center;
+}
